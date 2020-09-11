@@ -1,6 +1,6 @@
 # Validações para Português (BR) - Laravel +6
 
-[![Build Status](https://travis-ci.com/consultaazul/pt-br-validator.svg?branch=master)](https://travis-ci.com/consultaazul/pt-br-validator) [![License MIT](https://poser.pugx.org/laravel/passport/license.svg)](https://github.com/consultaazul/pt-br-validator/blob/master/LICENSE)
+![Travis (.com)](https://img.shields.io/travis/com/consultaazul/pt-br-validator?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/consultaazul/pt-br-validator?style=for-the-badge) ![Packagist Downloads](https://img.shields.io/packagist/dt/consultaazul/pt-br-validator?color=%23248afd&logo=Consulta%20Azul&style=for-the-badge)
 
 Esta é uma biblioteca com validações de dados brasileiros.
 
